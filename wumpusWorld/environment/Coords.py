@@ -11,3 +11,4 @@ class Coords():
     Checks whether two coordinates point to the same place on the board
     '''
     return coords.x == self.x and coords.y == self.y
+  
